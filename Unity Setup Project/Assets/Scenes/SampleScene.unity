@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 698029804}
   - component: {fileID: 698029808}
   m_Layer: 0
-  m_Name: CubeChangedFromGithub
+  m_Name: CubeConflictLocal
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
