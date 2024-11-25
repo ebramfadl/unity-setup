@@ -9,6 +9,7 @@ public class CubeScript : MonoBehaviour
     {
         //hello
         //Changed from local
+        //Changed from github
     }
 
     // Update is called once per frame
