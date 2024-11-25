@@ -8,6 +8,7 @@ public class CubeScript : MonoBehaviour
     void Start()
     {
         //hello
+        //updated from github
     }
 
     // Update is called once per frame
