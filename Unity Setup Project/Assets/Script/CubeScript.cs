@@ -13,6 +13,6 @@ public class CubeScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        //update from local   
     }
 }
